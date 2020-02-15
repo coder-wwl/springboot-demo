@@ -37,7 +37,7 @@ public class StudentController {
        student.setName("tony");
        student.setDepartment("纪检部");
        student.setSex("男");
-        return student;
+       return student;
     }
 
 }
