@@ -39,6 +39,7 @@ public class StudentController {
        student.setDepartment("纪检部");
        student.setSex("男");
        System.out.println("this is master");
+       System.out.println("this is dev");
        return student;
     }
 
