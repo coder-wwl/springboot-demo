@@ -38,6 +38,7 @@ public class StudentController {
        student.setName("tony");
        student.setDepartment("纪检部");
        student.setSex("男");
+       System.out.println("this is master");
        return student;
     }
 
